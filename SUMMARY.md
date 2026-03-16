@@ -49,7 +49,7 @@
 * [Adjusting the audio level of an individual clip](working-with-audio/adjusting-the-audio-level-of-a-clip.md)
 * [Adjusting the audio level of all clips in a track](working-with-audio/adjusting-audio-level-of-all-clips-in-a-track.md)
 * [Changing the duration of a dissolve or audio fade](working-with-audio/changing-the-duration-of-a-dissolve-or-audio-fade.md)
-* [Automating clip volume with keyframes](working-with-audio/automating-clip-volume-with-keyframes.md)
+* [Using Keyframes to Change Clip Volume in Sequence](working-with-audio/automating-clip-volume-with-keyframes.md)
 
 ## Adding text and transitions
 

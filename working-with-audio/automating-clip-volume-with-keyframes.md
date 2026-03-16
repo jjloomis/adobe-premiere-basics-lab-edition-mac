@@ -1,4 +1,4 @@
-# Automating clip volume with keyframes
+# Using Keyframes to Change Clip Volume in Sequence
 
 Specific areas of your clips can be set to automatically become louder or softer in volume as your project plays in the[ ](https://jjloomis.gitbooks.io/adobe-audition-basic-audio-editing/content/GLOSSARY.html#multitrack-session)**Timeline**. This automation process is not always necessary, but it is an option if want to create dynamic volume fluctuations at specific points in your project.
 
@@ -12,4 +12,4 @@ To automate the volume of an audio track, you can use the **Pen Tool** to add **
 6. To delete a **keyframe**, select it using the **Pen Tool** (the keyframe will appear blue.) Press the **Delete** key on your keyboard.
 7. When finished, switch back to the **Selection Tool** in the **Tools** panel.
 
-![](../.gitbook/assets/audio-automation.png)
+<figure><img src="../.gitbook/assets/audio-automation.png" alt="Using Keyframes to Change Clip Volume in Sequence"><figcaption><p>Using Keyframes to Change Clip Volume in Sequence.</p></figcaption></figure>
