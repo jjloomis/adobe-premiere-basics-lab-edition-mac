@@ -26,4 +26,4 @@ You’ll export an **MP4** file as your finished product. You can upload this **
 9. In the **Range** drop-down list (beneath video preview), select **Entire Sequence**.
 10. Click **Export**.
 
-![Exporting a high quality MP4.](../.gitbook/assets/exporting-an-mp4-high-quality.png)
+<figure><img src="../.gitbook/assets/exporting-an-mp4-high-quality.png" alt="Exporting an MP4 file"><figcaption><p>Exporting an MP4 file.</p></figcaption></figure>

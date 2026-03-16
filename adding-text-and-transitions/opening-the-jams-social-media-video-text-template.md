@@ -5,4 +5,4 @@
 3. In the **Essential Graphics** panel, make sure the **Browse** tab is selected. Click the **Install Motion Graphics Template** icon (lower-right corner—see image below.)
 4. In the **Open** box, navigate to and select a JAMS Text Template MOGRT file. Click **Open**. The JAMS Text Template will appear in the **Essential Graphics** panel.&#x20;
 
-![Installing a Motion Graphics template.](../.gitbook/assets/opening-a-text-template.png)
+<figure><img src="../.gitbook/assets/opening-a-text-template.png" alt="Installing a Motion Graphics template"><figcaption><p>Installing a Motion Graphics template.</p></figcaption></figure>

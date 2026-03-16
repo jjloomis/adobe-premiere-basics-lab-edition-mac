@@ -7,5 +7,5 @@
 5. In the Name field, give the still image a name.&#x20;
 6. When finished, click OK. Your still image will be JPEG in your project folder.
 
-![Exporting a still image from the Program monitor.](../.gitbook/assets/exporting-still-image-from-sequence.png)
+<figure><img src="../.gitbook/assets/exporting-still-image-from-sequence.png" alt="Exporting a still image from the Program monitor"><figcaption><p>Exporting a still image from the Program monitor.</p></figcaption></figure>
 
