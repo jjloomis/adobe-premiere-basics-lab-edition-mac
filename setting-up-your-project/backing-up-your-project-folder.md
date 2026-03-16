@@ -2,12 +2,12 @@
 
 Be sure to backup your project folder on a regular basis. If anything happens to your project folder SD card, you'll have a backup version in your class folder.
 
-<figure><img src="../.gitbook/assets/back-up-project-gif.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/back-up-project-gif.gif" alt="Do the steps on this page last"><figcaption></figcaption></figure>
 
 ### Connecting to your class folder
 
 1. **Important**: Do not connect to your class folder until you are done working for the day. Always back up your project folder before leaving the lab.
-2. When you are done working for the day, [click here to connect to your class folder](smb://ad.uwm.edu/Shares/\_U\_LS/Courses/JAMS) using a JAMS Lab or CCL Mac.
+2. When you are done working for the day, [click here to connect to your class folder](smb://ad.uwm.edu/Shares/_U_LS/Courses/JAMS) using a JAMS Lab or CCL Mac.
 3. Your browser will ask if you would like to proceed. Click the affirmative option (**Open Finder**, **Yes**, **Launch Application**, etc.)
 4. A dialog box will appear. Enter your ePanther password and click **Connect**. The **JAMS drive** will appear on your **Desktop** (on the right.) Double-click the **JAMS drive** to open it in a **Finder window**.
 5. In the **Finder window**, double-click your **course number folder** and your **Lastname-Firstname** **folder** to navigate into your **class folder**.

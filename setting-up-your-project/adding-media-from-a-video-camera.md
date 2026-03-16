@@ -27,4 +27,4 @@ Before importing media files into Premiere, you'll need copy these files into yo
 6. After the **DCIM** folder has copied into your project folder, eject the video camera.&#x20;
 7. Disconnect the camera from the Mac.
 
-![Copying media files from Canon Vixia XA10 video camera to project folder.](../.gitbook/assets/avchd-to-project-folder.png)
+<figure><img src="../.gitbook/assets/avchd-to-project-folder.png" alt="Copying media files from a Canon video camera to a project folder"><figcaption><p>Copying media files from a Canon Vixia XA10 video camera to a project folder.</p></figcaption></figure>

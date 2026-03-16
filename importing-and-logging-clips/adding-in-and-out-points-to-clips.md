@@ -5,4 +5,4 @@
 3. To add an In point to your clip, position the playhead where you would like the In point to appear. Press **I** (on keyboard) to create the In point.
 4. To add an Out point to your clip, position the playhead where you would like the Out point to appear. Press **O** (on keyboard) to create the Out point.
 
-![In and Out points added to a clip in the Source monitor.](../.gitbook/assets/adding-in-and-out-points.png)
+<figure><img src="../.gitbook/assets/adding-in-and-out-points.png" alt="Adding In and Out points to a clip in the Source monitor"><figcaption><p>Adding In and Out points to a clip in the Source monitor.</p></figcaption></figure>

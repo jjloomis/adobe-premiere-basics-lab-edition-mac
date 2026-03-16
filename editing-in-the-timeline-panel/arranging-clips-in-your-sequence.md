@@ -6,4 +6,4 @@
 
 Note: By default, an item will snap to the item closest to it. To turn snapping on or off, click the Snap Tool or press **S** (on keyboard).
 
-![Items in a sequence.](../.gitbook/assets/arranging-items-in-sequence.png)
+<figure><img src="../.gitbook/assets/arranging-items-in-sequence.png" alt="Clips in a sequence"><figcaption><p>Clips in a sequence.</p></figcaption></figure>

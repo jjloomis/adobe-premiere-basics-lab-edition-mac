@@ -4,4 +4,4 @@
 2. In your sequence, position the playhead over the clips you'd like to view.&#x20;
 3. Press the **spacebar** on your keyboard. Your edited project will play in the Program monitor.&#x20;
 
-![Viewing the project in the Program monitor.](../.gitbook/assets/viewing-project-in-program-monitor.png)
+<figure><img src="../.gitbook/assets/viewing-project-in-program-monitor.png" alt="A Premiere project in the Program monitor"><figcaption><p>Viewing the project in the Program monitor.</p></figcaption></figure>

@@ -7,4 +7,4 @@
    * In the **BDMV** folder, you'll see several folders. Double-click **STREAM**. The files in this folder are your media files (00000.MTS, etc.)
 3. Rename all of the MTS files in the **STREAM** folder. Do this by adding a letter to the end of the default filename (for example, 0000.MTS becomes 0000a.MTS.) Use the same letter for all of the MTS files (see image below.) Do not use a letter used in a previous project. **Note**: Be sure to maintain the .MTS extension at the end of the filename.
 
-![Renamed MTS files in STREAM folder.](../.gitbook/assets/renamed-clips.png)
+<figure><img src="../.gitbook/assets/renamed-clips.png" alt="Renamed MTS files in STREAM folder"><figcaption><p>Renamed MTS files in STREAM folder.</p></figcaption></figure>

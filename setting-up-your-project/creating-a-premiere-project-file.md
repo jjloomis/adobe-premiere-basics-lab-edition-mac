@@ -6,4 +6,4 @@
 4. In the **Project name** field, give your project a name. Follow [JAMS file and folder naming conventions](https://jjloomis.gitbook.io/file-and-folder-management/file-and-folder-naming-conventions).
 5. When finished, click **Create** (lower-right.)
 
-<figure><img src="../.gitbook/assets/creating-a-premiere-project.png" alt=""><figcaption><p>Creating a new Premiere project.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/creating-a-premiere-project.png" alt="Creating a new Premiere project"><figcaption><p>Creating a new Premiere project.</p></figcaption></figure>
