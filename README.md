@@ -10,10 +10,6 @@ Adobe Premiere Pro 2025 Basics | macOS Edition for [Journalism, Advertising, and
 
 Written by Jeffrey John Loomis
 
-### Other formats
-
-PDF, MOBI, and EPUB versions of this GitBook are available for download [here](https://www.gitbook.com/book/jjloomis/adobe-premiere-basic-video-editing/details).
-
 ### GitHub
 
 To fork this GitBook, make suggestions, or contribute content, visit the [GitHub repository](https://github.com/jjloomis/adobe-premiere-basic-video-editing).

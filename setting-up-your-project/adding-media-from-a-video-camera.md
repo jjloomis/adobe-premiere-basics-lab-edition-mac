@@ -27,4 +27,15 @@ Before importing media files into Premiere, you'll need copy these files into yo
 6. After the **DCIM** folder has copied into your project folder, eject the video camera.&#x20;
 7. Disconnect the camera from the Mac.
 
+### Canon Vixia XA60
+
+1. [Connect your project folder SD card](connecting-your-project-folder-sd-card.md) to the back of a Mac.
+2. Remove **128GB SD card** from **Canon Vixia XA60 SD card slot**.
+3. Insert **128GB SD card** into the **USB-C SD card reader**. **Note:** The **USB-C SD card reader** will be in **Canon Vixia XA60 camera bag**.&#x20;
+4. Connect **USB-C SD card reader** to the Mac.
+5. [Navigate to your project folder](https://jjloomis.gitbook.io/file-and-folder-management-mac-os-edition/navigating-folder-tree) in a Finder window. Then [open a second Finder window](https://jjloomis.gitbook.io/file-and-folder-management-mac-os-edition/opening-multiple-finder-windows). Select **Canon** in the left pane of the Finder window.&#x20;
+6. Copy the **DCIM** folder into your project folder. The **MP4** files you will import into your project file are in the 101\_XXXX subfolder.&#x20;
+7. After the **DCIM** folder has copied into your project folder, eject the **Canon** SD card (this is the **128GB SD card**).
+8. Remove the **128GB SD card** from the **USB-C SD card reader**. Put the **128GB SB card** back in the on the **Canon Vixia XA60** camera (**Slot A**). Put the **USB-C SD card reader** back in the camera case.
+
 <figure><img src="../.gitbook/assets/avchd-to-project-folder.png" alt="Copying media files from a Canon video camera to a project folder"><figcaption><p>Copying media files from a Canon Vixia XA10 video camera to a project folder.</p></figcaption></figure>
