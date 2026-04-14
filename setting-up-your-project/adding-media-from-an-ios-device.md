@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Copying media files from an iPad/ iPhone into your project folder
 
 1. [Connect your project folder SD card](connecting-your-project-folder-sd-card.md) to the back of a Mac.
